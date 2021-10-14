@@ -1,6 +1,6 @@
 # InstintoColetivo
 
-Projeto Integrador - Com foco em Bando de Dados
+Projeto Integrador - com foco em Banco de Dados
 
 Projeto 2 Semestre - Centro Universitário Senac
 
